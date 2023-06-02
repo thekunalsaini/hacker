@@ -13,6 +13,8 @@ Cool Developer with geeky Style
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
+  console.log('Kunal Saini')
+  alert('Kunal Saini')
   dateformat.i18n = require('./lang/' + l)
   return true;
 }
