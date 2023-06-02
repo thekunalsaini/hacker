@@ -2,10 +2,9 @@
 layout: default
 ---
 
- <link rel="shortcut icon" type="image/x-icon" href="https://github.githubassets.com/images/icons/emoji/octocat.png">
 # About   ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-Cool Developer with geeky Style
+Cool Developer with Geeky Style
 
 
 # Code it! 
