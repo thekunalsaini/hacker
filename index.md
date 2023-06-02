@@ -8,7 +8,7 @@ layout: default
 Cool Developer with geeky Style
 
 
-### Code it! 
+## Code it! 
 
 ```js
 // Javascript code with syntax highlighting.
