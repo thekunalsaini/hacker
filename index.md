@@ -3,12 +3,12 @@ layout: default
 ---
 
 
-# About
+# About   ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 Cool Developer with geeky Style
 
 
-### Code it!
+### Code it! 
 
 ```js
 // Javascript code with syntax highlighting.
@@ -26,7 +26,6 @@ end
 ```
 
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 
 
